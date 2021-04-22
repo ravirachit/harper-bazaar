@@ -1,5 +1,5 @@
 import '../styles/globals.css';
-import '../styles/Header.css';
+// import '../styles/Header.css';
 import '../styles/common.css';
 import Layout from '../components/layout';
 
